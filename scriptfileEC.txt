@@ -1,0 +1,5 @@
+load download.jpeg dog
+downsize 50 dog fifty-dog
+downsize 90 dog ninety-dog
+save fifty-dog.jpeg fifty-dog
+save ninety-dog ninety-dog
