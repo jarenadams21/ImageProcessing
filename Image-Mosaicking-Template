@@ -1,5 +1,6 @@
 // Image-Mosaicking Functionality developed to work with another group's code. 
 // Because this is their property, I will only upload this portion that represents our work.
+
 package model.macros;
 
 import java.util.ArrayList;
