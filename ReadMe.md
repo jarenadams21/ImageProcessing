@@ -1,4 +1,4 @@
-# Image Processor with an implemented GUI view using Java Swing, allows for various edits including greyscale, transforms, and more!
+# Image Processor with an implemented GUI view using Java Swing, allows for various edits including color correction, transforms, and more!
 
 Read Me
 
